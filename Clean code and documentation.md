@@ -1,6 +1,3 @@
----
-share: true
----
 - The Style guide
 - Documentation
 - NatSpec Format

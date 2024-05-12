@@ -1,6 +1,3 @@
----
-share: true
----
 
 * Explaining [Etherscan](https://etherscan.com)
 * Transactions
