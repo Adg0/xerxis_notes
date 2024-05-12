@@ -1,6 +1,3 @@
----
-share: true
----
 - (Review) Contract structure
 - (Review) Variables
 - (Review) Storage
