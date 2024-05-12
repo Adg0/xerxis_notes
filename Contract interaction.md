@@ -1,6 +1,3 @@
----
-share: true
----
 - Part 1:
 	- Contract interactions using Remix
 	- Viewing state changes through functions
