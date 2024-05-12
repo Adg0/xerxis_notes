@@ -1,6 +1,3 @@
----
-share: true
----
 - Solidity philosophy
 - OOP  basics of Solidity
 - Contract Structure
