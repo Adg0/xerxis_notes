@@ -1,0 +1,18 @@
+- Solidity philosophy
+- OOP  basics of Solidity
+- Contract Structure
+	- SPDX License Identifier
+	- Pragmas
+	- Imports
+	- Comments
+	- Contract definition
+- Variables
+- Storage access
+	- Account Storage
+	- Memory
+	- Stack
+- Constructor Function
+- Functions
+- Visibility
+- Typing
+- Return values
